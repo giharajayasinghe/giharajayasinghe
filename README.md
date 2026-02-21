@@ -12,6 +12,7 @@ Git | GitHub | Overleaf | MySQL | VS Code
 
 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giharajayasinghe&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giharajayasinghe&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
 
 
