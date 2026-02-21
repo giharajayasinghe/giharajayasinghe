@@ -10,7 +10,5 @@ Python | Java | SQL | HTML | CSS
 Tools & Technologies:
 Git | GitHub | MySQL | VS Code
 
-📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giharajayasinghe)](https://github.com/giharajayasinghe/github-readme-stats)
 
