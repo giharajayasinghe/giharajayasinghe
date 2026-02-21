@@ -12,15 +12,6 @@ Git | GitHub | Overleaf | MySQL | VS Code
 
 📊 GitHub Stats
 
-![Gihara's GitHub stats](https://github-readme-stats.vercel.app/api?username=giharajayasinghe&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giharajayasinghe&show_icons=true)
 
 
-🌟 Goals for 2026
-
-✅ Master Data Structures & Algorithms
-
-✅ Build strong Data Science portfolio
-
-✅ Contribute to Open Source
-
-✅ Secure a career in Data / Software Engineering
