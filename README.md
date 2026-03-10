@@ -7,8 +7,5 @@ Hi there 👋 I'm Gihara Jayasinghe
 Languages:
 Python | Java | SQL | HTML | CSS
 
-Tools & Technologies:
-Git | GitHub | MySQL | VS Code
-
 
 
